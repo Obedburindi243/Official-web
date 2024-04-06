@@ -1,0 +1,25 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3",
+            "default": true
+        }
+    ],
+    "graalvm.home": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3",
+    "graalvm.installations": [
+        "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3"
+    ],
+    "terminal.integrated.env.windows": {
+        "GRAALVM_HOME": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3",
+        "JAVA_HOME": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3",
+        "PATH": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3\\bin;${env:PATH}"
+    },
+    "java.home": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3",
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "c:\\Users\\obedb\\OneDrive\\Desktop\\docs\\js\\graalvm-ce-java17-22.3.3"
+        }
+    ]
+}
